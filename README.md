@@ -1,4 +1,4 @@
-# Project Title
+# Site Screenshoter
 
 Brief description of the project.
 
@@ -6,7 +6,6 @@ Brief description of the project.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
